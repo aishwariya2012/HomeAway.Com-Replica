@@ -1,0 +1,231 @@
+
+.list-group {
+     
+    margin:auto;
+    float:left;
+    padding-top:0px;
+   
+   }
+   .row{
+     padding-bottom: 20px;
+   }
+    .row1{
+   padding-top: 10px;
+    }
+   .Line{
+     padding-top: 20px;
+     padding-bottom: 30px;
+   }
+   .item{
+     margin: 10px;
+     padding-left: 20px;
+   }
+   .form-group1{
+     margin-left: 30px;
+   }
+   .lead {
+    
+    margin:auto;
+    left:0;
+    right:0;
+    padding-top:10%;
+   }
+   .panel1 h2{
+     text-align: center;
+   }
+
+     .login-form1 .form-control {
+    background: white none repeat scroll 0 0;
+    border: 1px solid #dbdbdb;
+    border-radius: 0px;
+    font-size: 18px;
+    height: 50px;
+    width: 100%;
+    line-height: 50px;
+}
+   .x1
+   {
+    background-color:blue;
+   }
+   .list-group-item
+
+   {
+    background-color:#0067db;
+   }
+   .sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+}
+
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  }
+
+  .outer
+  {     
+    background: #f4f4f4;
+    min-height: 650px;
+    height:100%;
+    
+  }
+  .inner{
+      display: inline;
+      margin-left:300px;
+      
+  }
+  #checklist-nav-container{
+      margin-right: 15px;
+      width:50px;
+  }
+
+.location1{
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: 150px;
+    padding-top: 30px;
+    border-color: white;
+    background:#f4f4f4;
+    margin-top: 40px;
+    height: 600px;
+   
+    box-shadow: white;
+}
+
+  .location
+{
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: 150px;
+    padding-top: 30px;
+    border-color: white;
+    background: white;
+    margin-top: 40px;
+    
+   
+    box-shadow: white;
+}
+.avail
+{
+  margin-left:300px;
+  margin-top:50px;
+}
+.sidenav .highlighted
+{
+  color: #323f4d;
+}
+.deatils
+{
+  margin-left:130px;
+  margin-top:50px;
+}
+.sidenav {
+  height: 60%; /* Full-height: remove this if you want "auto" height */
+  width: 160px; /* Set the width of the sidebar */
+  position: relative; /* Fixed Sidebar (stay in place on scroll) */
+  z-index: 1; /* Stay on top */
+  top: 4; /* Stay at the top */
+  margin-left: 100px;
+  background-color:transparent; /* Black */
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 55px;
+  overflow-y:hidden;
+}
+.innersidebar
+{
+  margin-left:25px;
+}
+/* The navigation menu links */
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  color: black;
+  display: block;
+}
+
+/* When you mouse over the navigation links, change their color */
+.sidenav a:hover {
+  color: blue;
+}
+.progress-message
+{
+  margin-bottom:5px;
+  margin-left:35px;
+}
+.progress {
+  height: 20px;
+  margin-bottom: 20px;
+  overflow: hidden;
+  background-color: white;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,.1);
+  box-shadow: inset 0 1px 2px rgba(0,0,0,.1);
+  margin-left: 30px;
+  margin-right: 50px;
+}
+
+
+.new
+{
+    list-style-type: none;
+}
+.new li
+{
+    color: black;
+    float: left;
+    
+}
+.new li a:hover
+{
+    color:black;
+}
+.login-form{ text-align:center;
+  
+}
+.btndesign1 {
+  
+  font-size: 18px;
+  display: block;
+  border-radius:20px;
+  float:right;
+  width:150px;
+}
+.btndesign2 {
+  
+  font-size: 18px;
+  display: block;
+  border-radius:20px;
+  margin-left: 20px;
+  margin-right: 200px;
+ float: left;
+  width:150px;
+}

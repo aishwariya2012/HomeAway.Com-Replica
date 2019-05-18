@@ -1,0 +1,408 @@
+.x{
+  background-color:  white;
+}
+.sub{
+  padding-top: 20px;
+
+}
+.list.btn-inverse{
+  float: right;
+    background-color:white;
+    color: #0067db;
+    border-color:blue;
+    margin-right: 10px;
+    height: 40px;
+    text-align: center;
+    margin-top: 5px;
+}
+#list{
+  
+    display: none;
+    font-size: 14px;
+    margin: 0 15px;
+    padding: 12px 40px;
+  
+
+}
+.btn {
+  
+  border-radius: 200px;
+  position: relative;
+  display: inline-block;
+  margin-bottom: 0;
+  border: 2px solid transparent;
+  font-weight: 400;
+  text-align: center;
+  vertical-align: middle;
+  touch-action: manipulation;
+  cursor: pointer;
+  background-image: none;
+  
+  
+}
+.body1{
+  background-size: cover ;
+  background: url('cute.jpg');
+  background-repeat  : 'no-repeat';
+  background-position: 'center';
+  background-size: 100%;
+  min-height: 800px;
+
+}
+.container{
+
+
+  
+  min-height: 10px;
+  background-position: 100%;
+  max-width: 100%;
+ 
+  
+}
+#bg {
+  position: fixed; 
+  top: 0; 
+  left: 0; 
+	
+  /* Preserve aspet ratio */
+  width: 100%;
+  min-height: 100%;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: inline;
+  overflow: hidden;
+ 
+}
+
+li {
+  float: right;
+  color: white;
+}
+#image{
+  float: right;
+}
+
+li a list{
+ 
+  color:white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  
+}
+
+li a:hover {
+  background-color: wheat;
+}
+
+:Content{
+background-position: 50%;
+background-size: cover;
+}
+:content{
+  width: 100%;
+  max-width: 1020px;
+  margin: auto;
+  padding: 0 10px;
+}
+.HeadLine {
+  font-size: 24px;
+}
+.HeadLine {
+  color: #fff;
+  font-size: 22px;
+  font-weight: 400;
+  letter-spacing: .1px;
+  text-align: left;
+  line-height: normal;
+  margin: 0 10px 10px;
+  
+}
+
+.logo
+{
+  margin-left: 25px;
+  color: white;
+ 
+ 
+}
+#logo1
+{
+  float: left;
+}
+a{
+  color:white;
+  text-decoration: none;
+  font-weight: 500;
+}
+.a {
+  background-color: transparent;
+
+}
+
+.navbar.navbar-inverse
+{
+  padding-top: 10px;    
+
+}
+.main{
+  background-size: cover;
+    background-position: 100%;
+}
+.main-inner{
+  position: relative;
+  -webkit-box-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: flex;
+ 
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  flex-direction: column;
+  min-height: 78vh;
+  
+}
+.main-content
+{
+  
+    width: 100%;
+    max-width: 1020px;
+  
+    padding: 100px 10px;
+    
+    
+    color: white;
+
+}
+.content {
+  
+font-size: 40px;
+}
+.input
+{
+  width: calc(36% - 10px);
+  height: 60px;
+  border-radius: 5px;
+  border-color: white;
+  background: white;
+  padding: 10px;
+  margin-right: 10px;
+
+}
+.input1
+{
+  width: calc(16% - 10px);
+  height: 60px;
+  border-radius: 5px;
+  border-color: white;
+  background: white;
+  padding: 10px;
+  margin-right: 10px;
+
+}
+.input2
+{
+  width: 15%;
+  height: 60px;
+  border-radius: 5px;
+  border-color: white;
+  background: white;
+  margin-right: 10px;
+  padding:10px;
+}
+.btn-primary {
+  position: relative;
+  border-radius: 100px;
+  background-color: #0067db;
+  border-color: #0067db;
+  color: #fff;
+  text-shadow: none;
+  -webkit-transition: all .25s ease-in-out;
+  transition: all .25s ease-in-out;
+ 
+  box-shadow: none;
+}
+.btn1
+{
+  width: 15%;
+  height: 60px;
+  padding: 10px;
+
+}
+.navbar-inverse {
+  background-color: transparent;
+  border-color: transparent;
+}
+.navbar1{
+  float: right;
+}
+.bottom
+{
+  width: 100%;
+    padding-bottom: 16px;
+}
+.bottom>ul>item
+{
+  width: 33.33%;
+    text-align: center;
+    color: #fff;
+    font-size: calc(9.567999px - -1 * (1vw - 767px / 100) * .6521009603841537);
+}
+.Profile{
+  background-color: blue;
+}
+.main-div1 {
+  background: #ffffff none repeat scroll 0 0;
+  border-radius: 2px;
+  margin: 10px auto 30px;
+  max-width: 50%;
+  padding: 50px 70px 70px 71px;
+  border: 2px solid #f4f4f4;
+  font-size: 25px;
+}
+.backclear
+{
+  background:white;
+  width: 100%;
+  height:700px;
+  
+}
+.Inside{
+  padding-top: 50px;
+}
+.space{
+  padding-top: 10px;
+}
+
+.form-control2{
+  height: 100px;
+  border: 1px solid #dbdbdb;
+  width:100%;
+  font-size: 1rem;
+}
+
+
+
+
+
+
+
+.backclm
+{
+ 
+  width: 100%;
+ 
+  margin-top:0px;
+  padding-top: 20px;
+}
+.loginhome1{
+    text-align: center
+
+}
+.h1{
+    font-size: 25px;   
+    text-align: center; 
+    color:gray;
+}
+.location2{
+    width:50%;
+    height:550px;
+    align-self: center;
+    margin-left:350px;
+    background-color: white;
+}
+.image1{
+    padding-left: 250px;
+    width:40%;
+}
+
+.a3{
+    color:blue;
+    font-size: 1rem;;
+    
+}
+.a2{
+    color:blue;
+    font-size: 20px;
+    padding-left: 200px;
+    padding-right: 50px;
+    padding-top: 10px;
+}
+li{
+    
+    list-style-type: none;
+    
+}
+p{
+    padding-top: 10px;
+    
+}
+.p1{
+  padding-top: 10px;
+    padding-left: 30px;
+}
+.row1{
+    padding-top: 30px;
+    padding-bottom:10px;
+    
+}
+.images{
+    width: 200px;
+    height: 200px;
+   
+
+}
+.space1{
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 10px;
+}
+.border2{
+    border-color:whitesmoke;
+    border: 2px solid whitesmoke;
+    width: 50%;
+    padding-left:20px;
+    padding-bottom: 10px;
+}
+.row{
+    padding-top: 0px;
+    padding-bottom:0px;
+}
+.h{
+    padding-left: 30px;
+}
+.mar{
+    padding-left: 10px;
+}
+.mainpage{
+  min-height: 10px;
+  background-position: 100%;
+  max-width: 100%;
+ 
+}
+.blue{
+color:blue;
+}
+.Inside{
+  text-align:center;
+  font-size: 30px;
+}
+.white{
+  background-color:transparent
+}
+.carousel{
+  position: relative;
+    height: 300px;
+}
+.my-carousel{
+width: 200px;
+height: 300px;
+}
+.imagedetail{
+  width: 200px;
+height: 300px;
+}
